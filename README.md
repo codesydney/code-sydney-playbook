@@ -19,7 +19,7 @@ We'd love to get your feedback on this! To contribute to this repo, join the #pl
 - [How do we kick off a project?](docs/project-kickoff.md)
 
 ## Developing the project 
-- How do we set up Github for the project? 
+- [How do we set up Github for the project?](docs/github-setup.md)
 - How do we manage version control / branches / pull requests? 
 
 ## Communications
