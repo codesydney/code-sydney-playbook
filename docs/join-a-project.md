@@ -17,3 +17,6 @@ Volunteering at Code.Sydney is a great way to gain real-world experience in a te
   - This is determined by the project team after meeting with the client
 
 ## Other relevant resources
+Below are some artefacts that we share with the client when entering the agreement:
+- [20210304 Project Women of Colour Australia v1.0.pdf](https://github.com/codesydney/code-sydney-playbook/files/7937001/20210304.Project.Women.of.Colour.Australia.v1.0.pdf)
+- [Code.Sydney Client Terms 2021.pdf](https://github.com/codesydney/code-sydney-playbook/files/7937000/Code.Sydney.Client.Terms.2021.pdf)
