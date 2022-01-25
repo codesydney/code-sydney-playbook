@@ -1,7 +1,7 @@
 # Setting up your machine
 
 ## Steps 
-- Setup Github with SSH. Full guide on [Github's documentation](https://docs.github.com/en/get-started/quickstart/set-up-git). 
+- Setup Github. Full guide on [Github's documentation](https://docs.github.com/en/get-started/quickstart/set-up-git). 
   - Github is where all of Code.Sydney's code is stored, and you will need to set up your computer to be able to push  and pull code to and from your repository
 - Download Slack on your computer and sign into the Code.Sydney Slack workspace. [Link here](https://slack.com/intl/en-au/downloads)
   - You can also access this directly from your web browser by going to https://codesydney.slack.com/
