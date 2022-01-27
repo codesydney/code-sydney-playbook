@@ -9,8 +9,9 @@
 - Install your preferred web browser for development
   - Chrome is the most popular web browser so it's always a safe choice, but there are other alternatives. Check [this link](https://www.webdesignerdepot.com/2021/06/7-best-browsers-for-developers-in-2021/) for a rundown of some of them. 
 - Install [nodejs](https://nodejs.org/en/)
-- Note that you will likely have to install additional programs depending on your what tech your project will use. 
 
 ## FAQs
+- What about <yourFavouriteTechnology> technology?
+  - Aside from hosting our code on Github, each project will have their own tech stack, so you may need to install additional tech to work on your project. 
 
 ## Other relevant resources
