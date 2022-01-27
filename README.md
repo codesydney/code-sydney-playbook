@@ -20,7 +20,7 @@ We'd love to get your feedback on this! To contribute to this repo, join the #pl
 
 ## Developing the project 
 - [How do we set up Github for the project?](docs/github-setup.md)
-- How do we manage version control / branches / pull requests? 
+- [How do we manage version control / branches / pull requests?](docs/pull-request.md) 
 
 ## Communications
 - How do we communicate with our project team? 
