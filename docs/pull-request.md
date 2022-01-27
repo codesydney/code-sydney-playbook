@@ -4,7 +4,7 @@ We use Github to manage our code as a team. Using Github's pull request function
 
 ## Steps
 - For a video overview, click [here](https://www.youtube.com/watch?v=xbD5lDCzvP8)
-- Whenever you work on a new feature, do not develop on the `main` branch
+- Whenever you work on a new feature, do not develop on the `main` branch. We will put some control to prevent this from happening.
 - Make sure your repo is up to date with the Github repo, with a `git pull`
 - Create your own feature branch by navigating to the root of the directory and typing `git checkout -b "name-of-feature"`
   - Ideally you will just create one branch per feature or issue, to allow for easy merging and code review later on
