@@ -15,7 +15,7 @@ We use Github to manage our code as a team. Using Github's pull request function
 - Push your changes with `git push origin "name-of-branch"`. The terminal should return a Github link.
   - Click through to the Github link and you should now be on a Pull Request page.
 - Edit the details of your pull request and add your teammates as reviewers
-- Once the PR has been reviewed, you can merge into the `main` branch and safely delete the branch from within Github
+- Once the PR has been reviewed, the team leader will merge the change into the `main` branch and safely delete the branch from within Github
 - Remember to `git pull` into your `main` branch locally to keep everything up to date before working on your next feature
 
 ## FAQs
