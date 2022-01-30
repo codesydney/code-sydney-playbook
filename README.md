@@ -23,5 +23,5 @@ We'd love to get your feedback on this! To contribute to this repo, join the #pl
 - [How do we manage version control / branches / pull requests?](docs/pull-request.md) 
 
 ## Communications
-- How do we communicate with our project team? 
-- How do we communicate with our clients? 
+- [How do we communicate with our project team?](docs/project-team-comms.md) 
+- [How do we communicate with our clients?](docs/client-comms.md)
