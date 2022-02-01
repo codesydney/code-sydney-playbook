@@ -22,6 +22,8 @@
 - Add the Github repo to the project Slack channel's bookmarks 
 
 ## FAQs
+- What's a Kanban board? 
+  - https://www.atlassian.com/agile/kanban
 - Can we use our own project management tools like JIRA or Trello?
   - Ideally we can keep everything in the Code.Sydney Github repo, but you may choose to use your own project management tool as long as the group are all agreed, and you link the tool from within the 
 
