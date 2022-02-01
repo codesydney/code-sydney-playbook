@@ -16,6 +16,7 @@ We use Github to manage our code as a team. Using Github's pull request function
   - Click through to the Github link and you should now be on a Pull Request page.
 - Edit the details of your pull request and add your teammates as reviewers
 - Once the PR has been reviewed, the team leader will merge the change into the `main` branch and safely delete the branch from within Github
+  - There might be a chance that you run into a merge conflict. See [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) on how to deal with merge conflicts on Github. 
 - Remember to `git pull` into your `main` branch locally to keep everything up to date before working on your next feature
 
 ## FAQs
