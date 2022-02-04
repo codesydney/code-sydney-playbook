@@ -5,16 +5,14 @@
 - Main branch should be protected, requiring pull requests before merging by going to the repo > Settings > Branches > Branch protection rules
   - This will ensure we don't run into unnecessary merge conflicts, and will also simulate how code is managed in a team setting 
 - Setup Github Issues & Github Project Board for project management
-  - See the [Project Eisteddfod repo](https://github.com/codesydney/eisteddfod) for an example of effective usage of Issues and Projects
-  - Project board should be a Kanban board containing the following headers
-    - Product Backlog / Ideas - Ideas that are not fully fleshed out yet or are not urgent
-    - Issues - Issues that we want to actively work on ASAP but have not started work on
-    - UX / UI Design - Issues that will need additional design / specifications before being ready for development
-    - Ready for Development - Issues that are now ready to start development
-    - In Development - Issues that are currently in progress 
-    - Code Review - Issues which have a pull request already submitted 
-    - UAT - Features that are being tested after being merged into `main`
-    - Done - Once it has passed UAT, move to Done
+  - Setup with the `Automated kanban with reviews` setting
+  - The Automated kanban with reviews board will have the following columns and automations
+    - To do: New Github Issues are automatically added here 
+    - In progress: Pull requests are automatically added here 
+    - Review in progress: Once reviewers are selected, the issue moves to this column
+    - Reviewer approved: Once reviewer approves, the issue moves to this column
+    - Done: Merged 
+  - Note that there are cases where you would want to add more columns. Feel free to modify this as long as you agree to it as a group. See [Project Eisteddfod repo](https://github.com/codesydney/eisteddfod) for an example of effective usage of Issues and Projects with more columns on the board. 
 - Setup Project Readme
   - Readme should contain information about what the project is, link to the deployed app, and other relevant links
   - Not sure how to start? Check this out: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
