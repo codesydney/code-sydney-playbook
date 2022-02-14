@@ -4,7 +4,16 @@ We use Github to manage our code as a team. Using Github's pull request function
 
 ## Steps
 - For a video overview, click [here](https://www.youtube.com/watch?v=xbD5lDCzvP8)
-- Whenever you work on a new feature, do not develop on the `main` branch. We will put some control to prevent this from happening.
+
+#### Starting with a Github Issue
+- All tasks must start with a [Github Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+  - Go to Issues and click New Issue
+  - Write down all the relevant details in the Issue
+  - Link your team's project board by clicking "Projects" and selecting the relevant board
+- Once you are starting work on the issue, go to your team's project board and move the Issue to In Progress
+
+#### Writing your code
+- Whenever you work on a new feature, do not develop on the `main` branch. By default, you will not be able to push into the `main` branch. 
 - Make sure your repo is up to date with the Github repo, with a `git pull`
 - Create your own feature branch by navigating to the root of the directory and typing `git checkout -b "name-of-feature"`
   - Ideally you will just create one branch per feature or issue, to allow for easy merging and code review later on
@@ -14,7 +23,12 @@ We use Github to manage our code as a team. Using Github's pull request function
 - Commit your changes with a message of what you changed with `git commit -m "message you want to add"`
 - Push your changes with `git push origin "name-of-branch"`. The terminal should return a Github link.
   - Click through to the Github link and you should now be on a Pull Request page.
+
+#### Submitting a Pull Request
 - Edit the details of your pull request and add your teammates as reviewers
+  - You will find that your PR will be pre-loaded with a template
+  - Make sure you reference the right issue # when prompted, as this will automatically link your PR with your issue
+- Link the PR to your Github project board by going to "Projects" and selecting your project board
 - Once the PR has been reviewed, the team leader will merge the change into the `main` branch and safely delete the branch from within Github
   - There might be a chance that you run into a merge conflict. See [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) on how to deal with merge conflicts on Github. 
 - Remember to `git pull` into your `main` branch locally to keep everything up to date before working on your next feature
@@ -22,3 +36,4 @@ We use Github to manage our code as a team. Using Github's pull request function
 ## FAQs
 
 ## Other relevant resources
+- Github Issues: https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
