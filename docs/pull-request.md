@@ -3,7 +3,7 @@
 We use Github to manage our code as a team. Using Github's pull request functionality will ensure that we keep our codebase free of conflicts, while also maintaining a clean history of changes. 
 
 ## Steps
-- For a video overview, click [here](https://www.youtube.com/watch?v=xbD5lDCzvP8)
+- For a video overview, click [here](https://www.youtube.com/watch?v=p3mOh14UjXQ)
 
 #### Starting with a Github Issue
 - All tasks must start with a [Github Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
