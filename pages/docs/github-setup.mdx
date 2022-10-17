@@ -1,0 +1,30 @@
+# Setting up the project's Github Repo
+
+## Steps or Details
+
+- Engramar to create Github repository and add the relevant contributors
+- Main branch should be protected, requiring pull requests before merging by going to the repo > Settings > Branches > Branch protection rules
+  - This will ensure we don't run into unnecessary merge conflicts, and will also simulate how code is managed in a team setting
+- Setup Github Issues & Github Project Board for project management
+  - Setup with the `Automated kanban with reviews` setting
+  - The Automated kanban with reviews board will have the following columns and automations
+    - To do: New Github Issues are automatically added here
+    - In progress: Pull requests are automatically added here
+    - Review in progress: Once reviewers are selected, the issue moves to this column
+    - Reviewer approved: Once reviewer approves, the issue moves to this column
+    - Done: Merged
+  - Note that there are cases where you would want to add more columns. Feel free to modify this as long as you agree to it as a group. See [Project Eisteddfod repo](https://github.com/codesydney/eisteddfod) for an example of effective usage of Issues and Projects with more columns on the board.
+- Setup Project Readme
+  - Readme should contain information about what the project is, link to the deployed app, and other relevant links
+  - Not sure how to start? Check this out: [How to Write a Good README File by freeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file)
+- Add the Github repo to the #github_notifications Slack channel by typing `github subscribe codesydney/<repoName>`
+- Add the Github repo to the project Slack channel's bookmarks
+
+## FAQs
+
+- What's a Kanban board?
+  - [Kanban - A brief introduction by Atlassian](https://www.atlassian.com/agile/kanban)
+- Can we use our own project management tools like JIRA or Trello?
+  - Ideally we can keep everything in the Code.Sydney Github repo, but you may choose to use your own project management tool as long as the group are all agreed, and you link the tool from within the
+
+## Other relevant resources
