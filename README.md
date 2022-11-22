@@ -8,4 +8,4 @@ This is NOT meant to micromanage you on the tech used to develop the project its
 
 We'd love to get your feedback on this! To contribute to this repo, join the #playbook channel on Code.Sydney's Slack and let us know your thoughts.
 
-[Link to the Playbook](https://github.com/codesydney/code-sydney-playbook)
+[Link to the Playbook](https://code-sydney-playbook.vercel.app/)
